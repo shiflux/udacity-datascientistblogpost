@@ -26,4 +26,4 @@ This is a project for the Udacity "Data Scientist" nanodegree.
 I decided to analise the trend of the salaries from 2011 to 2020 using the surveys data taken from StackOverflow. The focus is on the data coming from Italy: trend of the salaries in Italy and how it fares compared to US and Global trends.
 
 # Results
-Coming soon
+You can find my results in the following medium post [https://medium.com/p/6f92234fe498/](https://medium.com/p/6f92234fe498/)
